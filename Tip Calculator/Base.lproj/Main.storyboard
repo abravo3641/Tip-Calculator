@@ -39,6 +39,7 @@
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
                                     <action selector="calculateTip:" destination="BYZ-38-t0r" eventType="editingChanged" id="jxt-dI-XXe"/>
+                                    <action selector="test:" destination="Nvc-7a-IBg" eventType="editingDidEnd" id="rLm-Cm-0KB"/>
                                 </connections>
                             </textField>
                             <view contentMode="scaleToFill" misplaced="YES" id="2If-Kr-HGd">
