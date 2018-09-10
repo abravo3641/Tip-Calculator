@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img alt="" src="//i.imgur.com/oP6Mm7f.gif" style="max-width: 100%; min-height: 596px;" original-title="">
+<img alt="" src="i.imgur.com/oP6Mm7f.gif" style="max-width: 100%; min-height: 596px;" original-title="">
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
