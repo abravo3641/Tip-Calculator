@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 * you can manually input your own tip percentage
 
-- [] List anything else that you can get done to improve the app functionality!
+[] List anything else that you can get done to improve the app functionality!
 * Including more animations
 * Translating the words on different languages
 
